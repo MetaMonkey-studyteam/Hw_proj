@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>JSP - Hello World</title>
-    <link rel="stylesheet" href="/coffe.css">
+    <link rel="stylesheet" href="./coffe.css">
 </head>
 <body>
 <form action="store" method="post">
