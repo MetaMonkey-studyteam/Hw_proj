@@ -32,7 +32,7 @@
     <box>
         <img src="./image/oreoicecream.jpg" style="width: 200px; height: 200px;">
         <br>
-        <input type="checkbox" id="oreoicecream" value="oreoicecream-5500" name="item"><label for="oreoicecream">오레오아이스크림크로플
+        <input type="checkbox" id="oreoicecream" value="oreoicecream-6000" name="item"><label for="oreoicecream">오레오아이스크림크로플
         : 6000원</label>
     </box>
     <br>
