@@ -1,6 +1,6 @@
-># 온라인 복합 쇼핑몰 홈페이지 ![image](https://github.com/MetaMonkey-studyteam/Hw_proj/assets/136034038/acb7d3fb-560f-4736-a01b-62017900cb24)
+># 온라인 복합 쇼핑몰 홈페이지 🛒
 => 복합 쇼핑몰 홈페이지 이름이 존재하면 좋을듯
->## Team: Meta-Monkey(이모티콘)
+>## Team: Meta-Monkey🐵
 ## 프로젝트 설명
  온라인 복합 쇼핑몰 홈페이지인 (이름)은 다양한 독립적인 Store를 한 곳으로 모아둔 플랫폼입니다.
 사용자는 다양한 온라인 Store를 하나의 플랫폼에서 이용할 수 있습니다. 하나의 플랫폼으로 다양한 Store에
