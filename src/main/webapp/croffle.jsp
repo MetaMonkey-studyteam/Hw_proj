@@ -43,7 +43,7 @@
     </box>
     <br>
     <hr style="solid-color: black">
-    <input type="number" name="price">
+    <input type="number" name="bill">
     <input type="submit" value="구매하기">
 </form>
 </body>

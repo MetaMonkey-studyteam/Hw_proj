@@ -60,6 +60,7 @@
         </image>
     </box>
     <br>
+    <input type="number" name="bill">
     <input type="submit" value="주문하기">
 
 </form>
