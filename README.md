@@ -1,4 +1,4 @@
-># 온라인 복합 쇼핑몰 홈페이지 (이모티콘)
+># 온라인 복합 쇼핑몰 홈페이지 ![image](https://github.com/MetaMonkey-studyteam/Hw_proj/assets/136034038/acb7d3fb-560f-4736-a01b-62017900cb24)
 => 복합 쇼핑몰 홈페이지 이름이 존재하면 좋을듯
 >## Team: Meta-Monkey(이모티콘)
 ## 프로젝트 설명
