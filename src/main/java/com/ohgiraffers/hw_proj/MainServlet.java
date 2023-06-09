@@ -1,5 +1,6 @@
 package com.ohgiraffers.hw_proj;
 
+import com.ohgiraffers.method.CalculateChange;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
@@ -16,15 +17,11 @@ public class MainServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String[] itemlist = request.getParameterValues("item");
         int bill = Integer.parseInt(request.getParameter("bill"));
-        for (int i = 0; i < itemlist.length; i++) {
-            String[] price = itemlist[i].split("-");
-            int temp = Integer.parseInt(price[1]);
-            bill = bill - temp;
-        }
-        for (String item : itemlist) {
-            System.out.println("item = " + item);
-        }
-        if (bill < 0) {
+
+        CalculateChange change_calculate=new CalculateChange();
+        int change=change_calculate.change(itemlist,bill);
+
+        if (change < 0) {
             System.out.println("구매할 수 없습니다.");
         } else {
             // A error mesg 출력 및 페이지 이동(예외처리)
@@ -33,7 +30,7 @@ public class MainServlet extends HttpServlet {
                     .append("<html>\n")
                     .append("<head><head/>\n")
                     .append("<body>\n")
-                    .append("<h1>"+bill+"</h1>")
+                    .append("<h1>"+change+"</h1>")
                     .append("</body>\n")
                     .append("</html>");
 
@@ -54,7 +51,7 @@ public class MainServlet extends HttpServlet {
             //flush남아잇는거 밀어내기
             out.close();
             System.out.println("구매완료!");
-            System.out.println("change = " + bill);
+            System.out.println("change = " + change);
         }
     }
 }

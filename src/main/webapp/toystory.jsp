@@ -8,6 +8,8 @@
 <h1 align="center"> 용민이의 Toy Story입니다</h1>
 <h2 align="center"> 판매 상품 목록</h2>
 <div align="center">
+
+
     <form action="store" method="post">
         <box >
             <image style="width: 150px"
