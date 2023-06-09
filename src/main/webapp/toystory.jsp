@@ -11,7 +11,7 @@
 
 
     <form action="store" method="post">
-        <box >
+        <box>
             <image style="width: 150px"
                    src="https://image.kyobobook.co.kr/newimages/giftshop_new/goods/400/1577/hot1672839712993.jpg">
                 <br>
