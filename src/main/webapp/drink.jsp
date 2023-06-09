@@ -5,7 +5,7 @@
     <title>HTML</title>
 </head>
 <body>
-<form action="actionstore" method="post">
+<form action="store" method="post">
 <table border="1" cellpadding="5">
     <tr>
         <th><img src="image/cola.jpg" alt="My Image" width="100"></th>
