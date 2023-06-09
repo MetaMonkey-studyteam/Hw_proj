@@ -150,6 +150,7 @@
 
         </div>
         <hr width="50%">
+        <input type="number" name="bill">
         <input style="margin-top: 20px" type="submit" value="구매하기">
     </form>
 

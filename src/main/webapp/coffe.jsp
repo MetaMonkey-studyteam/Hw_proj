@@ -115,6 +115,7 @@
         </div>
 
         <div class="btnBox">
+            <input type="number" name="bill">
             <button type="submit" class="submitbtn">결제하기</button>
         </div>
     </section>
