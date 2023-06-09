@@ -51,12 +51,12 @@
     <br>
     <box>
         <image style="width: 150px" src="./image/beverage1.jpg">
-            <input type="checkbox" name="menus" id="beverage1" value="오렌지주스-4000"><label>오렌지 주스</label>
+            <input type="checkbox" name="menus" id="beverage1" value="오렌지주스-4000"><label>오렌지 주스:4000</label>
         </image>
     </box>
     <box>
         <image style="width: 150px" src="./image/beverage2.png">
-            <input type="checkbox" name="menus" id="beverage2" value="자몽에이드-7000"><label>자몽에이드</label>
+            <input type="checkbox" name="menus" id="beverage2" value="자몽에이드-7000"><label>자몽에이드:7000</label>
         </image>
     </box>
     <br>
