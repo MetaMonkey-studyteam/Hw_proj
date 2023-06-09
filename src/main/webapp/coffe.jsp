@@ -30,7 +30,7 @@
                         </p>
                         <a
                         ><img src="./image/cart.png" alt="" />
-                            <input type="checkbox" name="coffe" value="케냐-8000"  id="coffe1"><label for="coffe1"><p>Cart</p></label>
+                            <input type="checkbox" name="item" value="케냐-8000"  id="coffe1"><label for="coffe1"><p>Cart</p></label>
                         </a>
                     </li>
                     <li>
@@ -46,7 +46,7 @@
                         </p>
                         <a href=""
                         ><img src="./image/cart.png" alt="" />
-                            <input type="checkbox" name="coffe" value="플로라-8000"  id="coffe2"><label for="coffe2"><p>Cart</p></label>
+                            <input type="checkbox" name="item" value="플로라-8000"  id="coffe2"><label for="coffe2"><p>Cart</p></label>
 
                         </a>
                     </li>
@@ -62,7 +62,7 @@
                         </p>
                         <a
                         ><img src="./image/cart.png" alt="" />
-                            <input type="checkbox" name="coffe" value="콩가-10000"  id="coffe3"><label for="coffe3"><p>Cart</p></label>
+                            <input type="checkbox" name="item" value="콩가-10000"  id="coffe3"><label for="coffe3"><p>Cart</p></label>
                         </a>
                     </li>
                     <li>
@@ -80,7 +80,7 @@
                         </p>
                         <a href=""
                         ><img src="./image/cart.png" alt="" />
-                            <input type="checkbox" name="coffe" value="핀카엘-5000"  id="coffe4"><label for="coffe4"><p>Cart</p></label>
+                            <input type="checkbox" name="item" value="핀카엘-5000"  id="coffe4"><label for="coffe4"><p>Cart</p></label>
 
                         </a>
                     </li>
@@ -105,7 +105,7 @@
                         </p>
                         <a href=""
                         ><img src="./image/cart.png" alt="" />
-                            <input type="checkbox" name="coffe" value="티마나-6000"  id="coffe5"><label for="coffe5"><p>Cart</p></label>
+                            <input type="checkbox" name="item" value="티마나-6000"  id="coffe5"><label for="coffe5"><p>Cart</p></label>
 
                         </a>
                     </li>

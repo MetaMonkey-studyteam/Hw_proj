@@ -49,7 +49,7 @@
 
                 <li style="list-style: none; margin: 30px">
                     <nav style="display: block; margin-right: auto">
-                        <input type="checkbox" id="book1" value="object-23500" name="hobbies"><label for="book1">Object</label>
+                        <input type="checkbox" id="book1" value="object-23500" name="item"><label for="book1">Object</label>
                     </nav>
                     <img src="https://image.yes24.com/goods/74219491/XL" alt="">
                     <nav style="display: block">
@@ -64,7 +64,7 @@
 
                 <li style="list-style: none; margin: 30px">
                     <nav style="display: block; margin-right: auto">
-                        <input type="checkbox" id="book2" value="object-23500" name="hobbies"><label for="book2">Object</label>
+                        <input type="checkbox" id="book2" value="object-23500" name="item"><label for="book2">Object</label>
                     </nav>
                     <img src="https://image.yes24.com/goods/74219491/XL" alt="">
                     <nav style="display: block">
@@ -79,7 +79,7 @@
 
                 <li style="list-style: none; margin: 30px">
                     <nav style="display: block; margin-right: auto">
-                        <input type="checkbox" id="book3" value="CleanCode-29700" name="hobbies"><label
+                        <input type="checkbox" id="book3" value="CleanCode-29700" name="item"><label
                             for="CleanCode">Object</label>
                     </nav>
                     <img src="https://image.yes24.com/goods/11681152/XL" alt="">
@@ -101,7 +101,7 @@
 
                 <li style="list-style: none; margin: 30px">
                     <nav style="display: block; margin-right: auto">
-                        <input type="checkbox" id="book4" value="object-23500" name="hobbies"><label for="book4">Object</label>
+                        <input type="checkbox" id="book4" value="object-23500" name="item"><label for="book4">Object</label>
                     </nav>
                     <img src="https://image.yes24.com/goods/74219491/XL" alt="">
                     <nav style="display: block">
@@ -116,7 +116,7 @@
 
                 <li style="list-style: none; margin: 30px">
                     <nav style="display: block; margin-right: auto">
-                        <input type="checkbox" id="book5" value="object-23500" name="hobbies"><label for="book5">Object</label>
+                        <input type="checkbox" id="book5" value="object-23500" name="item"><label for="book5">Object</label>
                     </nav>
                     <img src="https://image.yes24.com/goods/74219491/XL" alt="">
                     <nav style="display: block">
@@ -131,7 +131,7 @@
 
                 <li style="list-style: none; margin: 30px">
                     <nav style="display: block; margin-right: auto">
-                        <input type="checkbox" id="CleanCode" value="CleanCode-29700" name="hobbies"><label
+                        <input type="checkbox" id="CleanCode" value="CleanCode-29700" name="item"><label
                             for="CleanCode">Object</label>
                     </nav>
                     <img src="https://image.yes24.com/goods/11681152/XL" alt="">

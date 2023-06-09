@@ -67,7 +67,7 @@
                     </p>
                 </li>
             </a>
-            <a href="">
+            <a href="./drink.jsp">
                 <li>
                     <img src="./image/음료수.png" alt="" />
                     <h2>음료수</h2>

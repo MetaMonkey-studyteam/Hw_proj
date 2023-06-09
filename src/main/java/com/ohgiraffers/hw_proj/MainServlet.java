@@ -30,7 +30,7 @@ public class MainServlet extends HttpServlet {
                     .append("<html>\n")
                     .append("<head><head/>\n")
                     .append("<body>\n")
-                    .append("<h1>"+change+"</h1>")
+                    .append("<h1>구매 성공하셨습니다! 남은 잔액은"+change+"입니다^^</h1>")
                     .append("</body>\n")
                     .append("</html>");
 
